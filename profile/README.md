@@ -1,12 +1,13 @@
 # Al‑Wahha Al‑Sehriya
 
-**Wahha-Sehriya** is a reserved name associated with our company identity.
+**Web & mobile development • Business systems • Hosting • Data analytics**
 
-Visit our main company profile and projects:
-[**Al‑Wahha Al‑Sehriya on GitHub**](https://github.com/Al-Wahha-Al-Sehriya)
+With around 15 years of experience, we help companies and institutions turn ideas into practical digital solutions. Explore our services, products and selected work on our main company profile.
+
+[**Explore Al‑Wahha Al‑Sehriya**](https://github.com/Al-Wahha-Al-Sehriya)
 
 [English](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.md) · [العربية](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ar.md) · [Türkçe](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.tr.md) · [Русский](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ru.md) · [Deutsch](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.de.md)
 
-[Company website](https://wahasehriya.com/) · [info@wahasehriya.com](mailto:info@wahasehriya.com)
+**Let's discuss your next project.**
 
-Magical Oasis is a secondary company name. The official company name is **Al‑Wahha Al‑Sehriya**.
+[Visit our website](https://wahasehriya.com/) · [Contact us](mailto:info@wahasehriya.com)
